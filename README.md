@@ -36,7 +36,3 @@ This project focuses on analysing household electricity consumption data to iden
 - Analysed more than 2 million household electricity consumption records.
 - Explored hourly, daily and weekly consumption patterns.
 - Identified unusual electricity consumption patterns using Isolation Forest.
-
-
-B.Tech – Metallurgical and Materials Engineering  
-NIT Jamshedpur
